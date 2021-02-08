@@ -2,7 +2,3 @@ Instructions for deploying this site to the server
 --------------------------------------------------
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut rhoncus feugiat orci nec auctor. Quisque venenatis lacus ac feugiat vestibulum.
-
-Installation on Instructions
-----------------------------
-Constent goes here
